@@ -1,2 +1,2 @@
 # typescript
-A Set of TypeScript examples
+This repository contains examples from my TypeScript YouTube video course
